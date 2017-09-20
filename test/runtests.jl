@@ -4,5 +4,5 @@ using ExamplePackage
 using Base.Test
 
 @testset "ExamplePackage.jl" begin
-    include("sort_numbers.jl")
+    include("test_sort_numbers.jl")
 end
